@@ -55,4 +55,23 @@
   }
 
    /******************************* Header ********************************/
-   
+   .web {
+    padding: 4rem;
+   }
+
+   .web .web-img {
+    max-width: 90%;
+    width: 550px;
+    display: block;
+    margin: auto;
+   }
+
+   .web .web-title{
+    text-align: center;
+    padding-top: 1rem;
+    color: var(--dark-gray);
+   }
+
+   .web .web-title .web-span {
+    color: var(--primary-color);
+   }
